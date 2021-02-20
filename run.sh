@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/bash
 
 trap ctrl_c INT
 function ctrl_c() {
