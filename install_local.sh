@@ -1,5 +1,7 @@
 #!/usr/bin/sh
 
+git submodule update --init --recursive
+
 cd pw3-moz2
 cargo build # not build on run, these ws should be running before the rest
 cd ../

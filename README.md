@@ -16,6 +16,5 @@ Run this to start local bot-manager, this will communicate with a hosted pw3-moz
 ./run.sh HTTPSERVER BOTSERVER
 ```
 
-
 ## ./run_local.sh
 Run this to start up your local pw3-moz3 server + frontends.
