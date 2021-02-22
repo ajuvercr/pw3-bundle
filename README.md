@@ -8,6 +8,7 @@ npm
 rust (`curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`)
 wasm-pack (`curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh`)
 
+
 ## ./install.sh
 
 Run this to install the npm packages required for communicating with a hosted pw3-moz2 server.

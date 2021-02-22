@@ -4,9 +4,6 @@
 [submodule "pw3-frontend"]
 	path = pw3-frontend
 	url = https://github.com/iasoon/pw3-frontend.git
-[submodule "MOZAIC2"]
-	path = MOZAIC2
-	url = https://github.com/iasoon/MOZAIC2.git
 [submodule "pw3-moz2"]
 	path = pw3-moz2
 	url = https://github.com/iasoon/pw3-moz2.git
